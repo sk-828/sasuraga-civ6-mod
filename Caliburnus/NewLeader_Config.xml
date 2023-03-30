@@ -18,16 +18,4 @@
 			<Portrait>PORTRAIT_LEADER_SAINTLEADER_ARTHUR</Portrait>
 		</Row>
 	</Players>
-	<PlayerItems>
-		<Row>
-			<Domain>Players:Expansion2_Players</Domain>
-			<CivilizationType>CIVILIZATION_SAINTCIV_CALIBURNUS</CivilizationType>
-			<LeaderType>LEADER_SAINTLEADER_ARTHUR</LeaderType>
-			<Type>UNIT_SUMERIAN_WAR_CART</Type>
-			<Icon>ICON_UNIT_SUMERIAN_WAR_CART</Icon>
-			<Name>LOC_UNIT_SUMERIAN_WAR_CART_NAME</Name>
-			<Description>LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION</Description>
-			<SortIndex>10</SortIndex>
-		</Row>
-	</PlayerItems>
 </GameData>
