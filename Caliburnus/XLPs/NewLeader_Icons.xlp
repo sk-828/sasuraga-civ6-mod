@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects:XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>252</build>
+		<revision>195</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/NewLeader_Icons"/>
+	<m_Entries>
+		<!-- Civilization -->
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_CALIBURNUS256"/>
+		</Element>
+		<!-- Leader -->
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_ARTHUR32"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_ARTHUR32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_ARTHUR45"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_ARTHUR45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_ARTHUR50"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_ARTHUR50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_ARTHUR55"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_ARTHUR55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_ARTHUR64"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_ARTHUR64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_ARTHUR80"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_ARTHUR80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_ARTHUR256"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_ARTHUR256"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects:XLP>

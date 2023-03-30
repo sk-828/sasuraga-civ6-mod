@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a309b342-d125-4a98-aaf8-f623b5811df6" version="1">
+  <Properties>
+    <Name>Caliburnus-Arthur</Name>
+    <Description>This example mod demonstrates how to add a new leader and civilization to the game.</Description>
+    <Created>1680111470</Created>
+    <Teaser>This example mod demonstrates how to add a new leader and civilization to the game.</Teaser>
+    <Authors>SaintCalibur</Authors>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <Dependencies>
+    <Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="Expansion: Gathering Storm" />
+  </Dependencies>
+  <ActionCriteria>
+    <Criteria id="LeaderCriteria">
+      <LeaderPlayable>Players:Expansion2_Players::LEADER_SAINTLEADER_ARTHUR</LeaderPlayable>
+    </Criteria>
+  </ActionCriteria>
+  <FrontEndActions>
+    <UpdateDatabase id="Config">
+      <File>NewLeader_Config.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="ConfigText">
+      <File>NewLeader_ConfigText.xml</File>
+      <File>NewLeader_ConfigTextJP.xml</File>
+    </UpdateText>
+    <UpdateIcons id="ConfigIcons">
+      <File>NewLeader_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="ConfigArt">
+      <File>Caliburnus-Arthur.dep</File>
+    </UpdateArt>
+    <UpdateColors id="ConfigColors">
+      <File>NewLeader_CoreColors.xml</File>
+      <File>NewLeader_PlayerColors.xml</File>
+    </UpdateColors>
+  </FrontEndActions>
+  <InGameActions>
+    <UpdateDatabase id="Gameplay">
+      <Criteria>LeaderCriteria</Criteria>
+      <File>NewLeader_Leaders.xml</File>
+      <File>NewLeader_Civilizations.xml</File>
+      <File>NewLeader_UB.xml</File>
+      <File>NewLeader_UD.xml</File>
+      <File>NewLeader_UP.xml</File>
+      <File>NewLeader_UU.xml</File>
+      <File>NewLeader_UI.xml</File>
+      <File>NewLeader_Moments.xml</File>
+      <File>NewLeader_LeaderAnimations.xml</File>
+    </UpdateDatabase>
+    <UpdateText id="Text">
+      <Criteria>LeaderCriteria</Criteria>
+      <File>NewLeader_ConfigText.xml</File>
+      <File>NewLeader_Text.xml</File>
+      <File>NewLeader_Dialogs.xml</File>
+      <File>NewLeader_DialogsJP.xml</File>
+      <File>NewLeader_ConfigTextJP.xml</File>
+      <File>NewLeader_TextJP.xml</File>
+    </UpdateText>
+    <UpdateIcons id="Icons">
+      <Criteria>LeaderCriteria</Criteria>
+      <File>NewLeader_Icons.xml</File>
+    </UpdateIcons>
+    <UpdateArt id="Art">
+      <Criteria>LeaderCriteria</Criteria>
+      <File>Caliburnus-Arthur.dep</File>
+    </UpdateArt>
+    <ImportFiles id="Import">
+      <File>Textures/arthur_DiplomacyInfo_Background.dds</File>
+      <File>Textures/arthur_LoadingInfo_Background.dds</File>
+      <File>Textures/arthur_LoadingInfo_Foreground.dds</File>
+    </ImportFiles>
+    <UpdateColors id="Colors">
+      <File>NewLeader_CoreColors.xml</File>
+      <File>NewLeader_PlayerColors.xml</File>
+    </UpdateColors>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Buildings.artdef</File>
+    <File>ArtDefs/Civilizations.artdef</File>
+    <File>ArtDefs/Cultures.artdef</File>
+    <File>ArtDefs/Districts.artdef</File>
+    <File>ArtDefs/FallbackLeaders.artdef</File>
+    <File>ArtDefs/Improvements.artdef</File>
+    <File>ArtDefs/Landmarks.artdef</File>
+    <File>ArtDefs/Leaders.artdef</File>
+    <File>ArtDefs/Units.artdef</File>
+    <File>Caliburnus-Arthur.dep</File>
+    <File>NewLeader_Civilizations.xml</File>
+    <File>NewLeader_Config.xml</File>
+    <File>NewLeader_ConfigText.xml</File>
+    <File>NewLeader_ConfigTextJP.xml</File>
+    <File>NewLeader_CoreColors.xml</File>
+    <File>NewLeader_Dialogs.xml</File>
+    <File>NewLeader_DialogsJP.xml</File>
+    <File>NewLeader_Icons.xml</File>
+    <File>NewLeader_LeaderAnimations.xml</File>
+    <File>NewLeader_Leaders.xml</File>
+    <File>NewLeader_Moments.xml</File>
+    <File>NewLeader_PlayerColors.xml</File>
+    <File>NewLeader_Text.xml</File>
+    <File>NewLeader_TextJP.xml</File>
+    <File>NewLeader_UB.xml</File>
+    <File>NewLeader_UD.xml</File>
+    <File>NewLeader_UI.xml</File>
+    <File>NewLeader_UP.xml</File>
+    <File>NewLeader_UU.xml</File>
+    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/MacOS/BLPs/UILeaders.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/NewLeader_Icons.blp</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
+    <File>Platforms/Windows/BLPs/UILeaders.blp</File>
+    <File>Platforms/Windows/BLPs/UI/NewLeader_Icons.blp</File>
+    <File>Textures/arthur_DiplomacyInfo_Background.dds</File>
+    <File>Textures/arthur_LoadingInfo_Background.dds</File>
+    <File>Textures/arthur_LoadingInfo_Foreground.dds</File>
+    <File>Textures/FALLBACK_DEFEAT_LEADER_SAINTLEADER_ARTHUR.dds</File>
+    <File>Textures/FALLBACK_DEFEAT_LEADER_SAINTLEADER_ARTHUR.tex</File>
+    <File>Textures/FALLBACK_HAPPY_LEADER_SAINTLEADER_ARTHUR.dds</File>
+    <File>Textures/FALLBACK_HAPPY_LEADER_SAINTLEADER_ARTHUR.tex</File>
+    <File>Textures/FALLBACK_NEUTRAL_LEADER_SAINTLEADER_ARTHUR.dds</File>
+    <File>Textures/FALLBACK_STERN_LEADER_SAINTLEADER_ARTHUR.dds</File>
+    <File>Textures/FALLBACK_STERN_LEADER_SAINTLEADER_ARTHUR.tex</File>
+    <File>Textures/FALLBACK_SURPRISED_AI_LEADER_SAINTLEADER_ARTHUR.dds</File>
+    <File>Textures/FALLBACK_SURPRISED_AI_LEADER_SAINTLEADER_ARTHUR.tex</File>
+    <File>Textures/FALLBACK_SURPRISED_HUMAN_LEADER_SAINTLEADER_ARTHUR.dds</File>
+    <File>Textures/FALLBACK_SURPRISED_HUMAN_LEADER_SAINTLEADER_ARTHUR.tex</File>
+    <File>Textures/FALLBACK_UNHAPPY_LEADER_SAINTLEADER_ARTHUR.dds</File>
+    <File>Textures/FALLBACK_UNHAPPY_LEADER_SAINTLEADER_ARTHUR.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS22.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS22.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS256.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS256.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS30.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS30.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS36.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS36.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS44.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS44.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS45.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS45.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS48.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS48.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS50.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS50.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS64.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS64.tex</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS80.DDS</File>
+    <File>Textures/ICON_CIVILIZATION_SAINTCIV_CALIBURNUS80.tex</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR256.DDS</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR256.tex</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR32.DDS</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR32.tex</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR45.DDS</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR45.tex</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR50.DDS</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR50.tex</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR55.DDS</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR55.tex</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR64.DDS</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR64.tex</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR80.DDS</File>
+    <File>Textures/ICON_LEADER_SAINTLEADER_ARTHUR80.tex</File>
+    <File>Textures/LEADER_SAINTLEADER_ARTHUR_NEUTRAL.dds</File>
+    <File>Textures/PORTRAIT_LEADER_SAINTLEADER_ARTHUR.dds</File>
+    <File>Textures/PORTRAIT_LEADER_SAINTLEADER_ARTHUR.tex</File>
+    <File>XLPs/NewLeader_Icons.xlp</File>
+  </Files>
+</Mod>

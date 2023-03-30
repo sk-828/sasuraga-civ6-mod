@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<!-- 文明固有カラー -->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_SAINTLEADER_ARTHUR_PRIMARY</Type>
+			<Color>50,50,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_SAINTLEADER_ARTHUR_SECONDARY</Type>
+			<Color>255,250,50,255</Color>
+		</Row>
+	</Colors>
+</GameInfo>
