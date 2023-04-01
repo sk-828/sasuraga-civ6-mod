@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- 親定義 -->
+	<Types>
+		<Row Type="CIVILIZATION_SAINTCIV_ARS"       Kind="KIND_CIVILIZATION" />
+		<Row Type="TRAIT_CIVILIZATION_SAINTCIV_ARS" Kind="KIND_TRAIT"/>
+	</Types>
+	<!-- 主設定 -->
+	<Civilizations>
+		<Row>
+			<CivilizationType>CIVILIZATION_SAINTCIV_ARS</CivilizationType>
+			<Name>LOC_CIVILIZATION_SAINTCIV_ARS_NAME</Name>
+			<Description>LOC_CIVILIZATION_SAINTCIV_ARS_DESCRIPTION</Description>
+			<Adjective>LOC_CIVILIZATION_SAINTCIV_ARS_ADJECTIVE</Adjective>
+			<StartingCivilizationLevelType>CIVILIZATION_LEVEL_FULL_CIV</StartingCivilizationLevelType>
+			<RandomCityNameDepth>10</RandomCityNameDepth>
+			<Ethnicity>ETHNICITY_ASIAN</Ethnicity>
+		</Row>
+	</Civilizations>
+	<!-- 文明に属する指導者 -->
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" LeaderType="LEADER_SAINTLEADER_RENFORCER" CapitalName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_1" />
+	</CivilizationLeaders>
+	<!-- 文明が何の特性を持つか -->
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TraitType="TRAIT_CIVILIZATION_SAINTCIV_ARS" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TraitType="TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TraitType="TRAIT_CIVILIZATION_DISTRICT_SEOWON"/>
+	</CivilizationTraits>
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_SAINTCIV_ARS</TraitType>
+			<ModifierId>TRAIT_TRIEU_ABILITY</ModifierId>
+		</Row>
+	</TraitModifiers>
+	<!-- 特性名と詳細説明の定義 -->
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_SAINTCIV_ARS" Name="LOC_TRAIT_CIVILIZATION_SAINTCIV_ARS_NAME" Description="LOC_TRAIT_CIVILIZATION_SAINTCIV_ARS_DESCRIPTION"/>
+	</Traits>
+	<!-- 市民名 -->
+	<CivilizationCitizenNames>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_MALE_1"   Female="0"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_MALE_2"   Female="0"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_MALE_3"   Female="0"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_MALE_4"   Female="0"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_1" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_2" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_3" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_4" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CitizenName="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_5" Female="1"/>
+	</CivilizationCitizenNames>
+	<!-- 都市名 -->
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_1" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_2" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_3" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_4" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_5" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_6" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_7" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_8" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_9" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_10" />
+	</CityNames>
+	<!-- 開始位置補正 -->
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_GRASS_MOUNTAIN" Tier="5"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_PLAINS_MOUNTAIN" Tier="5"/>
+	</StartBiasTerrains>
+	<StartBiasFeatures>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_FLOODPLAINS" Tier="5"/>
+	</StartBiasFeatures>
+	<StartBiasResources>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_HORSES" Tier="5"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_IRON" Tier="5"/>
+	</StartBiasResources>
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" Tier="5"/>
+	</StartBiasRivers>
+</GameData>

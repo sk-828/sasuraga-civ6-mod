@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civilization -->
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_CALIBURNUS_NAME" Language="ja_JP">
+			<Text>カリブルヌス</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_CALIBURNUS_DESCRIPTION" Language="ja_JP">
+			<Text>神聖なるカリブルヌス</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_CALIBURNUS_ADJECTIVE" Language="ja_JP">
+			<Text>カリブルヌスの</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS_NAME" Language="ja_JP">
+			<Text>小神ウーゼルの信仰</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS_DESCRIPTION" Language="ja_JP">
+			<Text>審問官の布教力+1,審問官は他の宗教の影響を完全に排除する。すべてのユニットは、自文明と異なる主流宗教を信仰する文明のユニットに対して戦闘力+4。</Text>
+		</Row>
+
+		<!-- Leader -->
+		<Row Tag="LOC_LEADER_SAINTLEADER_ARTHUR_NAME" Language="ja_JP">
+			<Text>7代目人王ウーゼル</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAINTLEADER_ARTHUR_NAME" Language="ja_JP">
+			<Text>王にして神</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAINTLEADER_ARTHUR_DESCRIPTION" Language="ja_JP">
+			<Text>軍事政策スロット+1,軍事政策スロットにつき戦闘力+1</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

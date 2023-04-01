@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects:XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>252</build>
+		<revision>195</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/NewLeader_Icons"/>
+	<m_Entries>
+		<!-- Civilization -->
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA256"/>
+		</Element>
+		<!-- Leader -->
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_SIRIUSU32"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_SIRIUSU32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_SIRIUSU45"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_SIRIUSU45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_SIRIUSU50"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_SIRIUSU50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_SIRIUSU55"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_SIRIUSU55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_SIRIUSU64"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_SIRIUSU64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_SIRIUSU80"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_SIRIUSU80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_SIRIUSU256"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_SIRIUSU256"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects:XLP>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SAINTCIV_ANCIENTMELTINIA</CivilizationType>
+			<LeaderType>LEADER_SAINTLEADER_SIRIUSU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SAINTLEADER_SIRIUSU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SAINTLEADER_SIRIUSU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SAINTCIV_ANCIENTMELTINIA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_SAINTLEADER_SIRIUSU_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_SAINTLEADER_SIRIUSU_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SAINTLEADER_SIRIUSU</LeaderAbilityIcon>
+			<Portrait>PORTRAIT_LEADER_SAINTLEADER_SIRIUSU</Portrait>
+		</Row>
+	</Players>
+	<PlayerItems>
+
+	</PlayerItems>
+</GameData>

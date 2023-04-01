@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects:XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>252</build>
+		<revision>195</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/NewLeader_Icons"/>
+	<m_Entries>
+		<!-- Civilization -->
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SAINTCIV_ARS256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SAINTCIV_ARS256"/>
+		</Element>
+		<!-- Leader -->
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_RENFORCER32"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_RENFORCER32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_RENFORCER45"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_RENFORCER45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_RENFORCER50"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_RENFORCER50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_RENFORCER55"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_RENFORCER55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_RENFORCER64"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_RENFORCER64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_RENFORCER80"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_RENFORCER80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_SAINTLEADER_RENFORCER256"/>
+			<m_ObjectName text="ICON_LEADER_SAINTLEADER_RENFORCER256"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects:XLP>

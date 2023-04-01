@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civilization -->
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_ARS_NAME" Language="ja_JP">
+			<Text>ドクトリン=アルス</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_ARS_DESCRIPTION" Language="ja_JP">
+			<Text>学問と芸術の共和制ドクトリン=アルス</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_ARS_ADJECTIVE" Language="ja_JP">
+			<Text>ドクトリン=アルスの</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAINTCIV_ARS_NAME" Language="ja_JP">
+			<Text>国土防衛主義</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAINTCIV_ARS_DESCRIPTION" Language="ja_JP">
+			<Text>
+				すべてのユニットは、森・熱帯雨林・湿原があるタイルでの戦闘時に戦闘力+5
+				森・熱帯雨林・湿原があるタイルの上でターンを開始したユニットはこのターンの移動力+1
+				上記のボーナスは、自文明の領土内では2倍になる。
+			</Text>
+		</Row>
+
+		<!-- Leader -->
+		<Row Tag="LOC_LEADER_SAINTLEADER_RENFORCER_NAME" Language="ja_JP">
+			<Text>トンプソン=レンフォーサー</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAINTLEADER_RENFORCER_NAME" Language="ja_JP">
+			<Text>積極的外資誘致</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAINTLEADER_RENFORCER_DESCRIPTION" Language="ja_JP">
+			<Text>自文明より高度な文明に続く交易路に科学力か文化力のボーナス。(まだ取得していない技術または社会制度3つにつき+1)</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

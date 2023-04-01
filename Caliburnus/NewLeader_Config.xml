@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SAINTCIV_CALIBURNUS</CivilizationType>
+			<LeaderType>LEADER_SAINTLEADER_ARTHUR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SAINTCIV_CALIBURNUS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SAINTCIV_CALIBURNUS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SAINTLEADER_ARTHUR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SAINTLEADER_ARTHUR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SAINTCIV_CALIBURNUS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_SAINTLEADER_ARTHUR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_SAINTLEADER_ARTHUR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SAINTLEADER_ARTHUR</LeaderAbilityIcon>
+			<Portrait>PORTRAIT_LEADER_SAINTLEADER_ARTHUR</Portrait>
+		</Row>
+	</Players>
+</GameData>

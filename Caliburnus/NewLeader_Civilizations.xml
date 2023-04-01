@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- 親定義 -->
+	<Types>
+		<Row Type="CIVILIZATION_SAINTCIV_CALIBURNUS"       Kind="KIND_CIVILIZATION" />
+		<Row Type="TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS" Kind="KIND_TRAIT"/>
+	</Types>
+	<!-- 主設定 -->
+	<Civilizations>
+		<Row>
+			<CivilizationType>CIVILIZATION_SAINTCIV_CALIBURNUS</CivilizationType>
+			<Name>LOC_CIVILIZATION_SAINTCIV_CALIBURNUS_NAME</Name>
+			<Description>LOC_CIVILIZATION_SAINTCIV_CALIBURNUS_DESCRIPTION</Description>
+			<Adjective>LOC_CIVILIZATION_SAINTCIV_CALIBURNUS_ADJECTIVE</Adjective>
+			<StartingCivilizationLevelType>CIVILIZATION_LEVEL_FULL_CIV</StartingCivilizationLevelType>
+			<RandomCityNameDepth>10</RandomCityNameDepth>
+			<Ethnicity>ETHNICITY_ASIAN</Ethnicity>
+		</Row>
+	</Civilizations>
+	<!-- 文明に属する指導者 -->
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" LeaderType="LEADER_SAINTLEADER_ARTHUR" CapitalName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_1" />
+	</CivilizationLeaders>
+	<!-- 文明が何の特性を持つか -->
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TraitType="TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TraitType="TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TraitType="TRAIT_CIVILIZATION_BUILDING_MADRASA"/>
+	</CivilizationTraits>
+	<!-- 特性名と詳細説明の定義 -->
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS" Name="LOC_TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS_NAME" Description="LOC_TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS_DESCRIPTION"/>
+	</Traits>
+	<TraitModifiers>
+		<!-- 自文明と同じ主流宗教を信仰している聖都1つにつきすべてのユニットの戦闘力+3 -->
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS</TraitType>
+			<ModifierId>TRAIT_HOLY_CITIES_COMBAT</ModifierId>
+		</Row>
+		<!-- 他文明か都市国家のユニットを撃破した際に近くの都市に自文明の主流宗教を布教する。 -->
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS</TraitType>
+			<ModifierId>TRAIT_HOLY_CITIES_RELIGIOUS_COMBAT</ModifierId>
+		</Row>
+		<!-- 聖地区域の大預言者ポイント+1 -->
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS</TraitType>
+			<ModifierId>BYZANTIUM_GREATPROPHETPOINTS</ModifierId>
+		</Row>
+	</TraitModifiers>
+	<!-- 市民名 -->
+	<CivilizationCitizenNames>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_MALE_1"   Female="0"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_MALE_2"   Female="0"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_MALE_3"   Female="0"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_MALE_4"   Female="0"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_FEMALE_1" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_FEMALE_2" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_FEMALE_3" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_FEMALE_4" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CitizenName="LOC_CITIZEN_SAINTCIV_CALIBURNUS_FEMALE_5" Female="1"/>
+	</CivilizationCitizenNames>
+	<!-- 都市名 -->
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_1" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_2" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_3" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_4" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_5" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_6" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_7" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_8" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_9" />
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_10" />
+	</CityNames>
+	<!-- 開始位置補正 -->
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_GRASS_MOUNTAIN" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_PLAINS_MOUNTAIN" Tier="4"/>
+	</StartBiasTerrains>
+	<StartBiasFeatures>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" FeatureType="FEATURE_FLOODPLAINS" Tier="3"/>
+	</StartBiasFeatures>
+	<StartBiasResources>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" ResourceType="RESOURCE_HORSES" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" ResourceType="RESOURCE_IRON" Tier="3"/>
+	</StartBiasResources>
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" Tier="5"/>
+	</StartBiasRivers>
+</GameData>

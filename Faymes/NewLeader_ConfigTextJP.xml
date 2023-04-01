@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civilization -->
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_FEYMES_NAME" Language="ja_JP">
+			<Text>フェイメス属領連邦</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_FEYMES_DESCRIPTION" Language="ja_JP">
+			<Text>光明差すフェイメス属領連邦</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAINTCIV_FEYMES_ADJECTIVE" Language="ja_JP">
+			<Text>フェイメス属領連邦の</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAINTCIV_FEYMES_NAME" Language="ja_JP">
+			<Text>属領連邦</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SAINTCIV_FEYMES_DESCRIPTION" Language="ja_JP">
+			<Text>
+				首都から6タイル以内にある首都以外の都市では各産出量+10%、それ以外の都市では各産出量-15%。
+				首都から6タイル以内に都市を建設した際に労働者を1ユニット獲得する。
+				すべてのユニットは、首都から6タイル以内での戦闘時に戦闘力+5。
+			</Text>
+		</Row>
+
+		<!-- Leader -->
+		<Row Tag="LOC_LEADER_SAINTLEADER_NULNIN_NAME" Language="ja_JP">
+			<Text>ウルズ・ヌルニン・ウリヤ</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAINTLEADER_NULNIN_NAME" Language="ja_JP">
+			<Text>建国の英雄</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SAINTLEADER_NULNIN_DESCRIPTION" Language="ja_JP">
+			<Text>都市の未改善の森・熱帯雨林に生産力+1 (「重商主義」獲得後は生産力+2、「自然保護」獲得後は生産力+3)、漁船に食料+1。
+			世界遺産による観光力+100%。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

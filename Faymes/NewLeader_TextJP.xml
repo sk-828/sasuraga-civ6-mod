@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Leader specific pedia text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_NULNIN_CHAPTER_CAPSULE_BODY" Language="ja_JP">
+			<Text>強大な生産力を以て世界遺産を建築し、ボーナスと観光力で国を栄えさせます。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_NULNIN_CHAPTER_DETAILED_BODY" Language="ja_JP">
+			<Text>フェイメスの優れた生産力はいくつもの区域や世界遺産を早く建設可能で、さらにそれによって観光力を多く獲得できるので敵国よりも文化面で優位に立てます。
+			「属領連邦」では首都近隣の都市の産出量を増幅し、狭い中ではあるが序盤から高速成長を可能にします。近代では固有ユニットによる国立公園や植林によってその衰えを見せません。
+			戦争は可能な限り避け、内政による高生産で勝利を目指します。</Text>
+		</Row>
+
+		<!-- Leader specific historical text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_NULNIN_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>当時六つの属領で戦争中だったフェイメスの、現在におけるライズグラードで冒険者の両親から生まれた。幼いころから妖精によく愛されるなどその特異性を見せつけていた。
+			齢１０の時にはすでに両親と共に遺跡や迷宮に冒険に出かけ、齢１５で妖精の二コラと共に一人の冒険者として歩み始めた。
+			当時パーティーを組んでいたヨシュアやアレキサンドルらとは建国後もよく付き合い、その力を余すことなく借りていた。
+			齢３２の時に魔剣リア・イデアを手に入れるとその力と権威を以てしてフェイメスの戦争を終わらせ各属領をまとめ一つの国を立ち上げた。
+			齢４２で暗殺されるその時も彼は人と妖精を愛しており、皆が幸せに暮らせる国造りを目指していた。</Text>
+		</Row>
+
+		<!-- Civilization specific historical text. -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAINTCIV_FEYMES_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>ヌルニンがフェイメス属領連邦を創る以前は炎水風土光闇の六つの属性がそれぞれ戦争を繰り返しては傷つき、土地を奪っては奪われる不毛な争いを何十年も続けていた。
+			フェイメスの土地は自然豊かで妖精をどこよりもたくさん見かけられたという。
+			現在でもその数は減るどころか増える一方で、噂では妖精が国を支配してるということがまことしやかにささやかれている。
+			ヌルニン暗殺の後に再び３年間戦争の悪夢を再開することがあったが、ヨシュア・ムーンリンによる再統一でフェイメスは再び連邦として息を吹き返す。
+			ヨシュアはヌルニンの行った交易や外交を引き継ぎ交易路を創ったり魔動機設備を取り入れるなどして国を栄えさせたが、
+			それ以降は自ら何かを成そうとせず閉鎖的な政治を行っているのだとか・・・。</Text>
+		</Row>
+
+		<!-- Civlization Citizen Names -->
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_MALE_1" Language="ja_JP">
+			<Text>ヨシュア</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_MALE_2" Language="ja_JP">
+			<Text>アヴローラ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_MALE_3" Language="ja_JP">
+			<Text>アクエル</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_MALE_4" Language="ja_JP">
+			<Text>ホーリス</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_FEMALE_1" Language="ja_JP">
+			<Text>ノワール</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_FEMALE_2" Language="ja_JP">
+			<Text>ウルスラ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_FEMALE_3" Language="ja_JP">
+			<Text>ヴォルカ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_FEMALE_4" Language="ja_JP">
+			<Text>シュタイン</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_FEYMES_FEMALE_5" Language="ja_JP">
+			<Text>スカイベール</Text>
+		</Row>
+
+		<!-- Civilization City Names-->
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_1" Language="ja_JP">
+			<Text>ヘキサ・ヌルニングラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_2" Language="ja_JP">
+			<Text>ライズグラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_3" Language="ja_JP">
+			<Text>シャドーリアグラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_4" Language="ja_JP">
+			<Text>スクリムグラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_5" Language="ja_JP">
+			<Text>ブレネングラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_6" Language="ja_JP">
+			<Text>ウラングラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_7" Language="ja_JP">
+			<Text>ウィンディグラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_8" Language="ja_JP">
+			<Text>フレアグラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_9" Language="ja_JP">
+			<Text>フリズグラード</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_10" Language="ja_JP">
+			<Text>ルメングラード</Text>
+		</Row>
+
+		<!-- Leader Quotes -->
+		<Row Tag="LOC_LEADER_SAINTLEADER_NULNIN_QUOTE" Language="ja_JP">
+			<Text>人と妖精、共に手を取り合える国を。</Text>
+		</Row>
+
+		<!-- Leader DOM -->
+		<Row Tag="LOC_LEADER_SAINTLEADER_NULNIN_DOM_TEXT" Language="ja_JP">
+			<Text>フェイメスの博愛なる建国の英雄ヌルニンよ、貴方に後ろに居る、己の快楽のみで動く妖精と傷つけることしか知らなかった国民は貴方という光を道しるべとし新たなる道を歩むだろう。
+			今こそ戦ではない、自分たちの豊かな国造りへ先導するのだ。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

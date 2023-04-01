@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Leader specific pedia text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_RENFORCER_CHAPTER_CAPSULE_BODY" Language="ja_JP">
+			<Text>ドクトリン=アルスの大統領です。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_RENFORCER_CHAPTER_DETAILED_BODY" Language="ja_JP">
+			<Text>ドクトリン=アルスの大統領です。詳細はまだです。</Text>
+		</Row>
+
+		<!-- Leader specific historical text. -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_RENFORCER_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>蛮族襲撃事件で大統領になったよ。</Text>
+		</Row>
+
+		<!-- Civilization specific historical text. -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SAINTCIV_ARS_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
+			<Text>リカント兵絶対許さん。</Text>
+		</Row>
+
+		<!-- Civlization Citizen Names -->
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_MALE_1" Language="ja_JP">
+			<Text>ビヨンド</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_MALE_2" Language="ja_JP">
+			<Text>アーロン</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_MALE_3" Language="ja_JP">
+			<Text>ライズ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_MALE_4" Language="ja_JP">
+			<Text>モント</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_1" Language="ja_JP">
+			<Text>ハル</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_2" Language="ja_JP">
+			<Text>エマ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_3" Language="ja_JP">
+			<Text>モミ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_4" Language="ja_JP">
+			<Text>ブラックレディ</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SAINTCIV_ARS_FEMALE_5" Language="ja_JP">
+			<Text>キング</Text>
+		</Row>
+
+		<!-- Civilization City Names-->
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_1" Language="ja_JP">
+			<Text>ルナルークス</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_2" Language="ja_JP">
+			<Text>ゼログランデ</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_3" Language="ja_JP">
+			<Text>ミッドナイト</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_4" Language="ja_JP">
+			<Text>ハイリゲンスタイン</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_5" Language="ja_JP">
+			<Text>ムーンドーン</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_6" Language="ja_JP">
+			<Text>アルス学研都市</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_7" Language="ja_JP">
+			<Text>エルフ村</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_8" Language="ja_JP">
+			<Text>ニュークリアブルック</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_9" Language="ja_JP">
+			<Text>グロウチャーチ</Text>
+		</Row>
+		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_10" Language="ja_JP">
+			<Text>セントラルプレンズ</Text>
+		</Row>
+
+		<!-- Leader Quotes -->
+		<Row Tag="LOC_LEADER_SAINTLEADER_RENFORCER_QUOTE" Language="ja_JP">
+			<Text>ウエストランドを取り戻さねばならん。</Text>
+		</Row>
+
+		<!-- Leader DOM -->
+		<Row Tag="LOC_LEADER_SAINTLEADER_RENFORCER_DOM_TEXT" Language="ja_JP">
+			<Text>長すぎ今は無理アルよ</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
