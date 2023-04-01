@@ -22,7 +22,7 @@
 		<Row LeaderType="LEADER_SAINTLEADER_RENFORCER" TraitType="TRAIT_LEADER_SAINTLEADER_RENFORCER"/>
 	</LeaderTraits>
 	<TraitModifiers>
-		<Row TraitType="TRAIT_LEADER_GRAND_EMBASSY" ModifierId="TRAIT_ADJUST_PROGRESS_DIFF_TRADE_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_SAINTLEADER_RENFORCER" ModifierId="TRAIT_ADJUST_PROGRESS_DIFF_TRADE_BONUS"/>
 	</TraitModifiers>
 	<!-- 特性の親定義(特性の名称と説明文) -->
 	<Traits>
