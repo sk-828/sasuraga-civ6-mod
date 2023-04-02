@@ -62,19 +62,4 @@
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_9" />
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_10" />
 	</CityNames>
-	<!-- 開始位置補正 -->
-	<StartBiasTerrains>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_GRASS_MOUNTAIN" Tier="5"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_PLAINS_MOUNTAIN" Tier="5"/>
-	</StartBiasTerrains>
-	<StartBiasFeatures>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_FLOODPLAINS" Tier="5"/>
-	</StartBiasFeatures>
-	<StartBiasResources>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_HORSES" Tier="5"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_IRON" Tier="5"/>
-	</StartBiasResources>
-	<StartBiasRivers>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" Tier="5"/>
-	</StartBiasRivers>
 </GameData>

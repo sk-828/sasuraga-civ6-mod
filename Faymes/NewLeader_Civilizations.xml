@@ -74,19 +74,4 @@
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" CityName="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_9" />
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" CityName="LOC_CIVLIZATION_SAINTCIV_FEYMES_CITY_10" />
 	</CityNames>
-	<!-- 開始位置補正 -->
-	<StartBiasTerrains>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" TerrainType="TERRAIN_GRASS_MOUNTAIN" Tier="3"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" TerrainType="TERRAIN_PLAINS_MOUNTAIN" Tier="3"/>
-	</StartBiasTerrains>
-	<StartBiasFeatures>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" FeatureType="FEATURE_FLOODPLAINS" Tier="4"/>
-	</StartBiasFeatures>
-	<StartBiasResources>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" ResourceType="RESOURCE_HORSES" Tier="4"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" ResourceType="RESOURCE_IRON" Tier="2"/>
-	</StartBiasResources>
-	<StartBiasRivers>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" Tier="4"/>
-	</StartBiasRivers>
 </GameData>

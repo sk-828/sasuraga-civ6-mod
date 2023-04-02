@@ -3,7 +3,7 @@
 	<LocalizedText>
 		<!-- Leader specific pedia text. -->
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_SIRIUSU_CHAPTER_CAPSULE_BODY" Language="ja_JP">
-			<Text>指導者の概要文章(Civilopedia)</Text>
+			<Text>シリウスが率いる古代メルティニア国は別名『グレンフォード王国』とも呼ばれています。敵方の土地の略奪を得意とする能力を持ち、全ての国の制服を目指す危険な存在となるでしょう。(Civilopedia)</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_SIRIUSU_CHAPTER_DETAILED_BODY" Language="ja_JP">
 			<Text>指導者の詳細文章(Civilopedia)</Text>
@@ -11,7 +11,10 @@
 
 		<!-- Leader specific historical text. -->
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SAINTLEADER_SIRIUSU_CHAPTER_HISTORY_PARA_1" Language="ja_JP">
-			<Text>指導者の歴史的背景(Civilopedia)</Text>
+			<Text>
+				獣王シリウス。その名はメルティニア史の中で最も有名であり、天上に輝く星の如く記されているだろう。この王は現在のメルティニアを築いた初代の王とされている。非常に戦の才に優れ、自ら戦場に立つ時もあり、その時の姿はまさに獣の王に相応しい姿であった
+				メルティニアに伝わる歴史としてはこの程度のものだが、実はメルティニアは、かつて『グレンフォード』と呼ばれた国がエルフ達が住んでいた国を侵略し、奪った国であるという事を、メルティニア国民は、今も知る由はないだろう。(Civilopedia)
+			</Text>
 		</Row>
 
 		<!-- Civilization specific historical text. -->
@@ -21,73 +24,77 @@
 
 		<!-- Civlization Citizen Names -->
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_MALE_1" Language="ja_JP">
-			<Text>ジョン</Text>
+			<Text>レティシア</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_MALE_2" Language="ja_JP">
-			<Text>チャールズ</Text>
+			<Text>アルブムアーク</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_MALE_3" Language="ja_JP">
-			<Text>ボビー</Text>
+			<Text>アルカナ</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_MALE_4" Language="ja_JP">
-			<Text>トム</Text>
+			<Text>プリスタイン</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_FEMALE_1" Language="ja_JP">
-			<Text>キティ</Text>
+			<Text>ブンプク</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_FEMALE_2" Language="ja_JP">
-			<Text>カーリー</Text>
+			<Text>モチ・ラクーン</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_FEMALE_3" Language="ja_JP">
-			<Text>ジャンヌ</Text>
+			<Text>メリフォリア</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_FEMALE_4" Language="ja_JP">
-			<Text>アントワネット</Text>
+			<Text>シグルド</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SAINTCIV_ANCIENTMELTINIA_FEMALE_5" Language="ja_JP">
-			<Text>エリザベス</Text>
+			<Text>イグドラム</Text>
 		</Row>
 
 		<!-- Civilization City Names-->
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_1" Language="ja_JP">
-			<Text>首都</Text>
+			<Text>メルティニア</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_2" Language="ja_JP">
-			<Text>都市1</Text>
+			<Text>エルトナ</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_3" Language="ja_JP">
-			<Text>都市2</Text>
+			<Text>カーバンクル牧場</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_4" Language="ja_JP">
-			<Text>都市3</Text>
+			<Text>マックルニア</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_5" Language="ja_JP">
-			<Text>都市4</Text>
+			<Text>ニュートニア</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_6" Language="ja_JP">
-			<Text>都市5</Text>
+			<Text>エルフの住居跡</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_7" Language="ja_JP">
-			<Text>都市6</Text>
+			<Text>モココニア</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_8" Language="ja_JP">
-			<Text>都市7</Text>
+			<Text>シルクニア</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_9" Language="ja_JP">
-			<Text>都市8</Text>
+			<Text>怨嗟と絶望の集積地</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SAINTCIV_ANCIENTMELTINIA_CITY_10" Language="ja_JP">
-			<Text>都市9</Text>
+			<Text>フワフニア</Text>
 		</Row>
 
 		<!-- Leader Quotes -->
 		<Row Tag="LOC_LEADER_SAINTLEADER_SIRIUSU_QUOTE" Language="ja_JP">
-			<Text>指導者の一言コメント</Text>
+			<Text>俺に続け、さすれば道は切り拓かれよう</Text>
 		</Row>
 
 		<!-- Leader DOM -->
 		<Row Tag="LOC_LEADER_SAINTLEADER_SIRIUSU_DOM_TEXT" Language="ja_JP">
-			<Text>ローディング中の紹介文</Text>
+			<Text>偉大なるシリウス。あなたの国が謎の怪物に襲われて辿り着いたのは新たなる大地。眼前には多くの壁が立ち塞がり、数多の国が栄えている事だろう
+				残された最後の道はただ侵略あるのみだ。
+				あなたならば成し遂げられるだろう、その牙と爪をもってすれば敵の防衛など、簡単に引き裂けるのだから
+				さあ、獣王よ　迷える国民達をまとめ上げ、今こそかつての栄光を取り戻すのだ
+			</Text>
 		</Row>
 	</LocalizedText>
 </GameData>

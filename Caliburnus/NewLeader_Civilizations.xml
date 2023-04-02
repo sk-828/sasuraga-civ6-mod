@@ -73,19 +73,4 @@
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_9" />
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_10" />
 	</CityNames>
-	<!-- 開始位置補正 -->
-	<StartBiasTerrains>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_GRASS_MOUNTAIN" Tier="4"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_PLAINS_MOUNTAIN" Tier="4"/>
-	</StartBiasTerrains>
-	<StartBiasFeatures>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" FeatureType="FEATURE_FLOODPLAINS" Tier="3"/>
-	</StartBiasFeatures>
-	<StartBiasResources>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" ResourceType="RESOURCE_HORSES" Tier="4"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" ResourceType="RESOURCE_IRON" Tier="3"/>
-	</StartBiasResources>
-	<StartBiasRivers>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" Tier="5"/>
-	</StartBiasRivers>
 </GameData>
