@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="901d4f57-e2b8-4e98-83bf-7913694d615a" version="1">
+<Mod id="901d4f57-e2b8-4e98-83bf-7913694d615a" version="2">
   <Properties>
     <Name>AncientMeltinia-Sirius</Name>
     <Description>This example mod demonstrates how to add a new leader and civilization to the game.</Description>
-    <Created>1680421962</Created>
+    <Created>1680876964</Created>
     <Teaser>This example mod demonstrates how to add a new leader and civilization to the game.</Teaser>
     <Authors>SaintCalibur</Authors>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>

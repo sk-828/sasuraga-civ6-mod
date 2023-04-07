@@ -25,7 +25,7 @@
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TraitType="TRAIT_CIVILIZATION_SAINTCIV_ARS" />
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TraitType="TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TraitType="TRAIT_CIVILIZATION_DISTRICT_SEOWON"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TraitType="TRAIT_CIVILIZATION_BUILDING_SUKIENNICE"/>
 	</CivilizationTraits>
 	<TraitModifiers>
 		<Row>
@@ -62,4 +62,63 @@
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_9" />
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" CityName="LOC_CIVLIZATION_SAINTCIV_ARS_CITY_10" />
 	</CityNames>
+	<!-- 開始位置補正 -->
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_DESERT" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_SNOW" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_SNOW_HILLS" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_SNOW_MOUNTAIN" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_GRASS_MOUNTAIN" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_PLAINS_MOUNTAIN" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_DESERT_MOUNTAIN" Tier="5"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_TUNDRA_MOUNTAIN" Tier="5"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_DESERT_HILLS" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_GRASS_HILLS" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_PLAINS_HILLS" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_TUNDRA_HILLS" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_TUNDRA" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_GRASS" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_PLAINS" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" TerrainType="TERRAIN_COAST" Tier="5"/>
+	</StartBiasTerrains>
+	<StartBiasFeatures>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_FLOODPLAINS" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_JUNGLE" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_FOREST" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_GEOTHERMAL_FISSURE" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_VOLCANO" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" FeatureType="FEATURE_MARSH" Tier="2"/>
+	</StartBiasFeatures>
+	<StartBiasResources>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_HORSES" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_IRON" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_CATTLE" Tier="5"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_SHEEP" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_COPPER" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_DIAMONDS" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_JADE" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_MERCURY" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_SALT" Tier="5"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_SILVER" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_COAL" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_NITER" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_ALUMINUM" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_CITRUS" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_COFFEE" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_COCOA" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_COTTON" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_DYES" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_SILK" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_SPICES" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_SUGAR" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_TEA" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_TOBACCO" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_WINE" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_INCENSE" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" ResourceType="RESOURCE_OLIVES" Tier="4"/>
+	</StartBiasResources>
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_ARS" Tier="1"/>
+	</StartBiasRivers>
 </GameData>

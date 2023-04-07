@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="a309b342-d125-4a98-aaf8-f623b5811df6" version="1">
+<Mod id="a309b342-d125-4a98-aaf8-f623b5811df6" version="2">
   <Properties>
     <Name>Caliburnus-Arthur</Name>
     <Description>This example mod demonstrates how to add a new leader and civilization to the game.</Description>
-    <Created>1680421978</Created>
+    <Created>1680876985</Created>
     <Teaser>This example mod demonstrates how to add a new leader and civilization to the game.</Teaser>
     <Authors>SaintCalibur</Authors>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>

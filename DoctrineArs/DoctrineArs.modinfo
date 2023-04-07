@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="ac287c40-853f-46a5-be4c-fc161fe9c599" version="1">
+<Mod id="ac287c40-853f-46a5-be4c-fc161fe9c599" version="2">
   <Properties>
     <Name>DoctrineArs-Renforcer</Name>
     <Description>This example mod demonstrates how to add a new leader and civilization to the game.</Description>
-    <Created>1680421993</Created>
+    <Created>1680877001</Created>
     <Teaser>This example mod demonstrates how to add a new leader and civilization to the game.</Teaser>
     <Authors>SaintCalibur</Authors>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>

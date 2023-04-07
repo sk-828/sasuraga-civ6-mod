@@ -24,10 +24,6 @@
 	<TraitModifiers>
 		<Row>
 			<TraitType>TRAIT_LEADER_SAINTLEADER_NULNIN</TraitType>
-			<ModifierId>TRAIT_WONDER_DOUBLETOURISM</ModifierId>
-		</Row>
-		<Row>
-			<TraitType>TRAIT_LEADER_SAINTLEADER_NULNIN</TraitType>
 			<ModifierId>TRAIT_MAORI_PREVENT_HARVEST</ModifierId>
 		</Row>
 		<Row>

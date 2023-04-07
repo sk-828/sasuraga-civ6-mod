@@ -24,8 +24,8 @@
 	<!-- 文明が何の特性を持つか -->
 	<CivilizationTraits>
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TraitType="TRAIT_CIVILIZATION_SAINTCIV_CALIBURNUS" />
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TraitType="TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TraitType="TRAIT_CIVILIZATION_BUILDING_MADRASA"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TraitType="TRAIT_CIVILIZATION_UNIT_MAORI_TOA"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TraitType="TRAIT_CIVILIZATION_DISTRICT_LAVRA"/>
 	</CivilizationTraits>
 	<!-- 特性名と詳細説明の定義 -->
 	<Traits>
@@ -73,4 +73,23 @@
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_9" />
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" CityName="LOC_CIVLIZATION_SAINTCIV_CALIBURNUS_CITY_10" />
 	</CityNames>
+	<!-- 開始位置補正 -->
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_DESERT" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_SNOW" Tier="5"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_GRASS_MOUNTAIN" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_PLAINS_MOUNTAIN" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_GRASS_HILLS" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_PLAINS_HILLS" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" TerrainType="TERRAIN_COAST" Tier="4"/>
+	</StartBiasTerrains>
+	<StartBiasResources>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" ResourceType="RESOURCE_HORSES" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" ResourceType="RESOURCE_IRON" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" ResourceType="RESOURCE_COPPER" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" ResourceType="RESOURCE_WHEAT" Tier="1"/>
+	</StartBiasResources>
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_CALIBURNUS" Tier="2"/>
+	</StartBiasRivers>
 </GameData>
