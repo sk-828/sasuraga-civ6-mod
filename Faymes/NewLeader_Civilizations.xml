@@ -96,7 +96,7 @@
 	<StartBiasFeatures>
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" FeatureType="FEATURE_FLOODPLAINS" Tier="3"/>
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" FeatureType="FEATURE_JUNGLE" Tier="2"/>
-		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" FeatureType="FEATURE_FOREST" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" FeatureType="FEATURE_FOREST" Tier="1"/>
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" FeatureType="FEATURE_GEOTHERMAL_FISSURE" Tier="4"/>
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" FeatureType="FEATURE_VOLCANO" Tier="3"/>
 		<Row CivilizationType="CIVILIZATION_SAINTCIV_FEYMES" FeatureType="FEATURE_FLOODPLAINS_GRASSLAND" Tier="3"/>
